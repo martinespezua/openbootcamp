@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+    </head>
+        <body>
+            <div>
+                <p>Este es mi primer comentario de dos líneas</p>
+                <p>Aprendiendo a documentar mi código con OpenBootcamp</p>
+            </div>
+            <div>
+                <ul><a href="https://youtube.com/watch?v=dQw4w9WgXcQ">El Lado B OpenBootcamp</a></ul>
+                <ul><a href="https://youtube.com/watch?v=dQw4w9WgXcQ">Receta Secreta de McDonalds</a></ul>
+                <ul><a href="https://youtube.com/watch?v=dQw4w9WgXcQ">La Historia Oculta de Bill Gates</a></ul>
+            </div>
+        </body>
+</html>
