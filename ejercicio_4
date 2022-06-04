@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="ejercicio-4.css">
+            <title>Ganando precisión con los selectores en CSS</title>
+    </head>
+    <body>
+        <h1 id="titulo" class="encabezado">Lista de la Compra</h1>
+            <div>
+                <ul>
+                    <li id="elemento-1" class="elemento-1">1Kg de papas</li>
+                    <li id="elemento-2">1Kg de Banana</li>
+                    <li id="elemento-3">1Kg de Apio</li>
+                    <li id="elemento-4">1Kg de Manzana</li>
+                    <li id="elemento-5">1Kg de Naranja</li>
+                </ul>
+            </div>
+            <div>
+                <ol>
+                    <li id="elemento-1">OpenMarketCamp Norte</li>
+                    <li id="elemento-2">OpenMarketCamp Sur</li>
+                    <li id="elemento-3">OpenMarketCamp Oeste</li>
+                    <li id="elemento-4">OpenMarketCamp Este</li>
+                    <li id="elemento-5">OpenMarketCamp Centro</li>
+                </ol>
+            </div>
+    </body>
+</html>
