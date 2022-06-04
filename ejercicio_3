@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>Ejercicio 3</title>
+        </head>
+        <body>
+            <div>
+                <h1>Aprendiendo a utilizar imágenes</h1>
+                    <img src="https://videojuegos.com/imagen_tetris.jpg" width="500"/>
+            </div>
+            <div>
+                <h1>Aprendiendo a utilizar los vídeos</h1>
+                    <video width="640" loop controls autoplay muted>
+                        <source src="video.mp4" type="video/mp4"/>
+                    </video>
+            </div>
+            <div>
+                <h1>Aprendiendo a utilizar los audios</h1>
+                    <audio loop controls autoplay>
+                    <source src="audio.mp3" type="audio/mp3"/>
+                    </audio>
+            </div>
+        </body>
+    </html>
